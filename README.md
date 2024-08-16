@@ -3,6 +3,15 @@
 ![image](https://github.com/user-attachments/assets/999d986e-a979-4cba-8780-ef147fa2f0aa)
 
 
+![image](https://github.com/user-attachments/assets/70d6d1f7-3b3b-4f02-aa33-ed8feef6f582)
+
+After deleting one car 
+
+![image](https://github.com/user-attachments/assets/965fb211-a447-4181-b27a-d76438f2597e)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
